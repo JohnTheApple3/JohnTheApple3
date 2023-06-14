@@ -1,9 +1,15 @@
-👋 Hi, I’m João Guimarães! 
+👋 Hi, I’m João Guimarães! After a leap of faith, I threw myself into the IT world by joining Code Academy's FullStack bootcamp!
+I'm working on some projects and as soon as possible I'll post them here for you to see! 
+wish me luck!
+
 From motorcycles to camping in the middle of nature to trying exotic foods! And always with a craft beer from a random country!
-🌱 I’m currently learning relational database at freecodecamp and then I'll review my front-end skills (html, css, javascript and maybe learn React!). 
+🌱 I’m reviewing everuthing about relational database at freecodecamp and then I'll review my front-end skills (html, css, javascript and maybe learn React!). 
+
+
 If you want, you can suggest something to learn, I'm open to anything!
-- 📫 How to reach me ...
-this is how: 
+
+My contacts:
+
 linkedin: https://www.linkedin.com/in/johnapple3/
 
 or send a DM on instagram!
