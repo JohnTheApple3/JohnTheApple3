@@ -12,7 +12,7 @@ My contacts:
 
 linkedin: https://www.linkedin.com/in/johnapple3/
 
-or send a DM on instagram!
+or send a DM on Instagram! :)
 
 https://instagram.com/john.the.apple?igshid=MzNlNGNkZWQ4Mg==
 
